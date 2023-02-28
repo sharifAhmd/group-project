@@ -1,1 +1,1 @@
-# image-similarity-project
+# msc-group-project
